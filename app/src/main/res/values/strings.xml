@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="joke_button_text">Get a new Joke</string>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="version">free</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-9337403923506946/8121913713</string>
+    <string name="device_id">EF8F45B9F9373B5EEB0F45519FF554E7</string>
+</resources>
