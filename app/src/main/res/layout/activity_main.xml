@@ -23,16 +23,6 @@
 
     <include layout="@layout/content_main" />
 
-    <ProgressBar
-        android:id="@+id/progressBar1"
-        style="?android:attr/progressBarStyleLarge"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
 
-        android:progressDrawable="@drawable/circular_progress_bar"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="@dimen/progress_bar_margin_top"
-        android:layout_marginLeft="@dimen/progress_bar_margin_bottom"
-        />
 
 </android.support.design.widget.CoordinatorLayout>
